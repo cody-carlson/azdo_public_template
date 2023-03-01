@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/codycarlson-tf-org/e5dfd2cb-7f3a-4211-a647-84b02da95478/2be9d638-5df5-4a3e-89d6-0e3efb7ba848/_apis/work/boardbadge/82e7c926-cfa4-4c7f-9d64-3fb1e964f130)](https://dev.azure.com/codycarlson-tf-org/e5dfd2cb-7f3a-4211-a647-84b02da95478/_boards/board/t/2be9d638-5df5-4a3e-89d6-0e3efb7ba848/Microsoft.RequirementCategory)
 # azdo_public_template
